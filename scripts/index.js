@@ -40,17 +40,7 @@ for(let el of categories){
 }
 
 
-// let searchImages= async ()=>{
-//     let value =document.getElementById("query").ariaValueMax;
-//     try{
-//         let res= await fetch(
-//             `https://api.unsplash.com/search/photos/?query=${value}&per_page=20&client_id=${API}`
-//         );
 
-//         let data=await res.json();
-//         console.log(data);
-//     }catch(err){
-//         console.log(err);
 //     }
 // }
 
